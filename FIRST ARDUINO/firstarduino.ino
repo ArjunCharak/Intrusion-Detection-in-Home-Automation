@@ -10,7 +10,7 @@ const int LED_PIN = 3;
 // Set the distance threshold for the LED to turn on
 int DISTANCE_THRESHOLD = 20;
 
-// Variables to store the duration of the sound wave and the distance calculated from it
+// Variables to store the duration of sound wave and the distance calculated from it
 float duration_us , distance_cm;
 
 // Set up the Arduino board
