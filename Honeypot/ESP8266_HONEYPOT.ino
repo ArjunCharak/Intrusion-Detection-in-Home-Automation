@@ -26,7 +26,7 @@ void loop() {
 
     // http.begin(canaryTokenURL);
     WiFiClient client;
-    http.begin(client, canaryTokenURL);  // Updated line
+    http.begin(client, canaryTokenURL);
 
 
     int httpCode = http.GET();
