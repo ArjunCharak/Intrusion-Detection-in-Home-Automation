@@ -29,7 +29,7 @@ void sendSensor()
 
 void setup()
 {
-  // Debug console
+ 
   Serial.begin(9600);
 
   Blynk.begin(auth, ssid, pass);
