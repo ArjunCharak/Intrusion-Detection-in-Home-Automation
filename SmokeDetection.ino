@@ -9,8 +9,8 @@
 char auth[] = "mbmK8fcNlG3XDY1S3kYq40YD95fhFwoH"; //Enter Authentication code sent by Blynk
  
 
-char ssid[] = "Home"; //Enter WIFI Name
-char pass[] = "child@lock_222"; //Enter WIFI Password
+char ssid[] = "Home"; //Enter your WIFI Name
+char pass[] = "child@lock_222"; //Enter your WIFI Password
  
 SimpleTimer timer;
  
