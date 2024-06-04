@@ -14,7 +14,7 @@ char pass[] = "child@lock_222"; //Enter your WIFI Password
  
 SimpleTimer timer;
  
-int mq2 = D1; // smoke sensor is connected with the D1 
+int mq2 = D1; // smoke sensor is connected with D1 
 int data = 0; 
 void setup() 
 {
