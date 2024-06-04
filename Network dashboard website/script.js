@@ -105,8 +105,6 @@ if (this.status === 200) {
 xhr.send();
 
 
-//speed
-// Speed test
 function measureNetworkSpeed() {
 const startTime = Date.now();
 const fileSize = 1024 * 1024 * 10; // 10 MB
